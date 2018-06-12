@@ -1,0 +1,6 @@
+framework module XLsn0wFoldTableView {
+  umbrella header "XLsn0wFoldTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
